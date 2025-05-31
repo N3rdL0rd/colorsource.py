@@ -1,10 +1,7 @@
 [project]
-name = "pycolorsource"
+name = "colorsource.py"
 version = "0.1.0"
 description = "Open-source reimplementation of show file logic from the ETC Colorsource lightboards"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = [
-    "dearpygui>=2.0.0",
-    "pyqt5>=5.15.11",
-]
+requires-python = ">=3.10"
+dependencies = []
