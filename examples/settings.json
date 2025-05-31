@@ -1,0 +1,40 @@
+{
+    "artNetUniverseMapping": [
+        0
+    ],
+    "autoSelectChannels": true,
+    "buttonBrightness": 7,
+    "defaultCueTime": 10,
+    "defaultMoveDarkTime": 10,
+    "defaultMoveTime": 10,
+    "displayBacklight": 7,
+    "dmxSpeed": 3,
+    "externalMonitor": false,
+    "faderFunctions": [
+        "Grandmaster",
+        "Masters",
+        "Cues",
+        "Crossfader"
+    ],
+    "language": "english",
+    "operatingMode": 1,
+    "rdmEnable": true,
+    "rubberbandMode": true,
+    "sACNPriority": 100,
+    "sAcnUniverseMapping": [
+        1
+    ],
+    "showStageMapZones": true,
+    "sneakTime": 5,
+    "softButtonFunctions": [
+        "StageMap",
+        "Parameter",
+        "Keypad",
+        "Blackout",
+        "Back",
+        "GO"
+    ],
+    "softwareVersion": "3.3.0.25",
+    "userPasscode": "",
+    "videoMode": ""
+}
